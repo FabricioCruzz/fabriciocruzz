@@ -1,4 +1,4 @@
-### Olá, meu nome é Fabricio!
+### Olá, meu nome é Fabricio! Seja bem-vindo ao perfil!
 
 ##
 
