@@ -1,16 +1,16 @@
-### Olá, meu nome é Fabricio! Seja bem-vindo ao meu perfil!
-
-##
-
+## Olá, meu nome é Fabricio! Seja bem-vindo ao meu perfil!
 <div>
   <a href="https://github.com/FabricioCruzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioCruzz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioCruzz&layout=compact&langs_count=7&theme=dracula"/>
+  <img allign="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioCruzz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img allign="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioCruzz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ##
+<div style="display: inline_block"> 
   
-<div style="display: inline_block"> <br>
+  <br>
+  
+  ##  Tecnologias que Uso
+  
    <img allign="center" alt="Fabricio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
       <!--
   <img allign="center" alt="Fabricio-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
@@ -22,7 +22,7 @@
    <img allign="center" alt="Fabricio-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
   
-  ##
+  ##  Redes Sociais e Contato
   
   <div>
     
